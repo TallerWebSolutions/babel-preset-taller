@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-taller",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Taller node Babel preset.",
   "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
   "homepage": "https://github.com/TallerWebSolutions/babel-preset-taller#readme",
