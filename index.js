@@ -1,6 +1,6 @@
-const presetBabelPolyfill = require('babel-polyfill')
-const presetEs2015 = require('es2015')
-const presetStage0 = require('stage-0')
+const presetBabelPolyfill = require('babel-preset-babel-polyfill')
+const presetEs2015 = require('babel-preset-es2015')
+const presetStage0 = require('babel-preset-stage-0')
 
 const transformDecoratorsLegacy = require('babel-plugin-transform-decorators-legacy')
 const transformES3PropertyLiterals = require('babel-plugin-transform-es3-property-literals')

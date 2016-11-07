@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-taller",
-  "version": "0.1.0",
-  "description": "Taller babel preset.",
+  "version": "0.1.1",
+  "description": "Taller node Babel preset.",
   "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
   "homepage": "https://github.com/TallerWebSolutions/babel-preset-taller#readme",
   "bugs": {
@@ -26,5 +26,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": []
+  "keywords": [
+    "babel",
+    "preset"
+  ]
 }
