@@ -1,4 +1,3 @@
-const presetBabelPolyfill = require('babel-preset-babel-polyfill')
 const presetEs2015 = require('babel-preset-es2015')
 const presetStage0 = require('babel-preset-stage-0')
 
@@ -9,7 +8,6 @@ const transformRuntime = require('babel-plugin-transform-runtime')
 
 module.exports = {
   presets: [
-    presetBabelPolyfill,
     presetEs2015,
     presetStage0
   ],
